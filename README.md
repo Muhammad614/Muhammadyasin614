@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammadyasin!
+- 👋 Hi, I’m Muhammad!
 - 👀 I’m interested in Python, HTML, CSS and 3d Modeling!
 - 🌱 I’m currently learning Python Django!
 - 📫 How to reach me:
